@@ -55,10 +55,3 @@ Responsive design
 
 Lightweight and fast — no frameworks or external libraries used
 
-💭 Challenges and Learning
-One of the main challenges was managing state in JavaScript — keeping track of the current question, the selected option, and the total score. Another key part was ensuring the user experience was smooth, without page reloads or lag between questions. We also made sure the logic was robust, such as preventing submission when no option is selected.
-
-This project was a great way to practice DOM manipulation, event handling, conditionals, and arrays in JavaScript. It also reinforced how to structure and style a real-world web application from scratch using only frontend tools.
-
-🚀 Final Thoughts
-The final result is a simple but effective quiz application that runs smoothly in the browser. It's a great foundation for more advanced features like question timers, user login, saving scores, adding more question categories, or even pulling questions from an API or database. For now, it accomplishes everything a basic quiz app should, entirely through HTML, CSS, and JavaScript — and most importantly, without a single error.

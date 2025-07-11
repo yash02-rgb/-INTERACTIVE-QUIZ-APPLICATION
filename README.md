@@ -5,7 +5,7 @@
 *DOMAIN*: FRONTEND WEB DEVELOPMENT
 *DURATION*: 4 WEEKS
 *MENTOR*: NEELA SANTOSH KUMAR
-
+*ISSUE*: OUTPUT
 # DESCRIPTION: Interactive Quiz Application (Frontend Only)
 The goal of this project was to build a fully functional interactive quiz application using only frontend technologies — HTML, CSS, and JavaScript. The idea was to create a web-based platform where users can answer multiple-choice questions, get immediate feedback on their selections, and receive a final score once all questions have been answered. This kind of application is commonly used in e-learning platforms, assessments, and online exams.
 
